@@ -1,0 +1,33 @@
+.title {
+    text-align: center;
+    font-family: "Monaco", monospace;
+    background-color: green;
+    color: white;
+    font-size: 50px;
+    }
+
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    h2 {
+        font-size: 35px;
+        background-color: green;
+        font-family: "Monaco", monospace;
+        color: white;
+    }
+
+    .Description {
+        font-size: 20px;
+        background-color: yellow;
+        font-family: "Papyuris", fantasy;
+    }
+
+    li {
+        font-size: 20px;
+        background-color: yellow;
+        font-family: "Papyuris", fantasy;
+    }
+    
