@@ -1,15 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    margin: 0 auto;
+    height: auto;
+    width: 390px;
+    display: block;
+    border: 5px solid black;
+    border-bottom: none;
+    padding: 50px;
+    box-sizing: content-box;
+    background-color: yellow;
+}
+
+
 .title {
     text-align: center;
-    background: green;
     color: white;
     font-size: 50px;
     font-family: "Monaco", Monospace;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: black;
+    width: 500px;
 }
 
-ul {
+.list {
     text-align: center;
     list-style-position: inside;
     font-size: 20px;
-    background-color: yellow;
-    font-family: "Papyuris", fantasy;
+    font-family: monospace;
+    background-color: black;
+    border: 5px solid black;
+    padding: 30px;
+    width: 500px;
+    margin: auto;
 }
+
+#first, #second, #third {
+    margin: 15px;
+    
+}
+
+button {
+    background-color: yellow;
+    color: black;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
